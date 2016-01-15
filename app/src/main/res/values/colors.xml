@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#FFFBED</color>
+    <color name="cream">#FFFBED</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="butter_yellow">#F1C602</color>
+</resources>
